@@ -1,0 +1,127 @@
+.butCinza {
+	BACKGROUND-COLOR: #999999; COLOR: #FFFFFF; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 7pt; FONT-STYLE: normal; FONT-WEIGHT: bold
+}
+.formtext {
+	COLOR: #000000; FONT-SIZE: 10pt; FONT-WEIGHT: bold
+}
+.head1 {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 14pt; FONT-WEIGHT: bold
+}
+.cxtexto {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 8pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+
+}
+.cxtextofalsa {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 8pt;
+	FONT-STYLE: normal;
+	FONT-WEIGHT: bold;
+	background-color: #FFFFFF;
+	border: none;
+
+}
+.fonte {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 7pt; FONT-STYLE: bold; FONT-WEIGHT: bold
+}
+.link {
+	COLOR: #FFFFFF; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-STYLE: bold; FONT-WEIGHT: bold
+; text-decoration: none
+}
+.texto {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 7pt; FONT-STYLE: bold; FONT-WEIGHT: normal
+}
+.numerousuario {
+	COLOR: #ffcc66; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-STYLE: bold; FONT-WEIGHT: bold
+}
+.numerousuariored {
+	COLOR: red; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-STYLE: bold; FONT-WEIGHT: bold
+}
+.textobold {
+	COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 7pt; FONT-STYLE: normal; FONT-WEIGHT: bold; line-height: normal
+}
+.titulo { COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-STYLE: bold; FONT-WEIGHT: bold}
+.erro { COLOR: #990000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-STYLE: normal; FONT-WEIGHT: bold }
+.combo {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 8pt;
+	font-style: normal;
+	font-weight: normal;
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+}
+.pequeno {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 7pt; font-style: normal; font-weight: bold; color: #990000}
+.titulobranco {  font-family: Arial, Helvetica, sans-serif; font-size: 7pt; font-style: bold; font-weight: bold; color: #FFFFFF}
+.pesquisa {  font-family: Arial, Helvetica, sans-serif; font-size: 7pt; font-style: bold; font-weight: bold; color: #003399}
+BODY {
+    SCROLLBAR-FACE-COLOR: #FFCC99;       //COR DA BARRA 
+    SCROLLBAR-HIGHLIGHT-COLOR: #f3f3f3;  //???????????? 
+    SCROLLBAR-SHADOW-COLOR: gray;        //COR DA BARRA QUANDO NAO TEM MUITAS LINHAS
+    SCROLLBAR-ARROW-COLOR: #000000;      //COR DA SETA 
+    SCROLLBAR-BASE-COLOR: #6d8693;       //???????????? 
+    scrollbar-dark-shadow-color: black;  //???????????? 
+    scrollbar-3d-light-color: #9BAAC1    //???????????? 
+}
+.titpequeno {  font-family: Arial, Helvetica, sans-serif; font-size: 7pt; font-style: bold; font-weight: bold; font-variant: bold}
+.titulored {  font-family: Arial, Helvetica, sans-serif; font-size: 8pt; font-style: bold; font-weight: bold; color: #990000; font-variant: bold}
+.titulomenor {  font-family: Arial, Helvetica, sans-serif; font-size: 5pt; font-style: bold; font-weight: bold; font-variant: bold; color: #000000}
+.textosite {
+	font-family: Tahoma;
+	font-size: 11px;
+}
+.bordapontos {
+	border: thin dotted #666666;
+}
+.textotitulos {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	font-weight: bold;
+
+}
+.textopequeno {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 6pt;
+	font-weight: bold;
+}
+.tituloscript { COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 8pt; FONT-STYLE: bold; FONT-WEIGHT: bold}.tituloespaco {
+	COLOR: #000000;
+	FONT-FAMILY: Arial, Helvetica, sans-serif;
+	FONT-SIZE: 8pt;
+	FONT-STYLE: bold;
+	FONT-WEIGHT: bold;
+	line-height: 20px;
+
+}
+.titulomenor {
+COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 7pt; FONT-WEIGHT: normal
+}
+.tituloredmaior {
+font-family: Arial, Helvetica, sans-serif; font-size: 9pt; font-style: bold; font-weight: bold; color: #990000; font-variant: bold
+}
+.titulomaior {
+COLOR: #000000; FONT-FAMILY: Arial, Helvetica, sans-serif; FONT-SIZE: 9pt; FONT-STYLE: bold; FONT-WEIGHT: bold
+}
+.titulo2 {
+font-family: Arial, Helvetica, sans-serif; 
+font-size: 9px; 
+color: #000000
+}
+.titulosublinhado {
+ font-family: Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ font-weight: bold;
+ color: #000000;
+ text-decoration: underline;
+}
+.tabbaixo {
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #000000;
+}
+
